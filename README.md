@@ -73,14 +73,16 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Jorge Briones 
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R:R es un lenguaje de programaci�n mientras que RStudio es una interfaz que facilita la utilizaci�n del lenguaje
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+Push
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
